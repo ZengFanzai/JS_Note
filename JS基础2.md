@@ -5,7 +5,7 @@
 - [闭包](#闭包解答)
 - [函数提升和变量提升](#函数提升和变量提升)
 - [Apply,Call,Bind用法对比](#abc)
-- []()
+- [script标签](#script)
 
 ## **IIFE** <a id="IIFE"></a>
 
@@ -388,6 +388,8 @@ console.log(Math.max.apply(null, allNumbers)); // 56
 
 
 ## **&lt;script&gt;、&lt;script async&gt;、&lt;script defer&gt;**
+
+<a id="script"></id>
 
 ```js
 
